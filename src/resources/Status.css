@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Mono;
+}
+
+.text-area {
+    -fx-text-fill: black;
+    -fx-font-size: 9pt;
+    -fx-font-family: 'Mono';
+    -fx-font-style: normal;
+    -fx-font-weight: normal;
+}
