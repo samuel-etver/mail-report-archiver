@@ -2,7 +2,7 @@
 
 ## Overview
 
-Reading shift reports sent by email and archive them. Used on a pipe plant.
+Reading and archiving shift reports, sent by email. Used on a pipe plant.
 
 ## Used tools
 
